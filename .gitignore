@@ -1,0 +1,36 @@
+=============== 
+Unity generated
+===============
+Temp/
+Library/
+Bundles/
+Bundles.meta
+
+=====================================
+Visual Studio / MonoDevelop generated
+=====================================
+ExportedObj/
+obj/
+*.svd
+*.userprefs
+/*.csproj
+*.pidb
+*.suo
+/*.sln
+*.user
+*.unityproj
+*.booproj
+.vscode
+============
+OS generated
+============
+.Trashes
+.vs
+
+=================================
+Android Resolver
+================================
+Assets/Plugins/Android/*.aar
+Assets/Plugins/Android/*.aar.meta
+Assets/Plugins/Android/*.jar
+Assets/Plugins/Android/*.jar.meta
