@@ -15,3 +15,6 @@ Geo Location And World Flags asset for Unity
 -Get your location with IP (need internet connection) using this service :
 http://ip-api.com/docs/api:json
 Please check the link for commercial and usage limits.
+
+[YouTube](https://youtu.be/_3mYClM0c1Y)
+[AssetStore](http://u3d.as/Vfi)
